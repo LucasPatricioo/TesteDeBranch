@@ -1,5 +1,1 @@
-<<<<<<< HEAD
- branch
-=======
- nova
->>>>>>> arquivoTerciario
+ branch nova
